@@ -1,2 +1,5 @@
 # Botium-toys-security-audit-
-Objective: Conduct internal audit using National Institute of Standards and Technology Cybersecurity Framework (NIST CSF) Company: Botium Toys (fictional SME) Scope: IT systems, payment processing, customer data Goal: Identify risks, ensure compliance, recommend improvements
+Objective: Conduct internal audit using National Institute of Standards and Technology Cybersecurity Framework (NIST CSF) 
+Company: Botium Toys (fictional SME) 
+Scope: IT systems, payment processing, customer data 
+Goal: Identify risks, ensure compliance, recommend improvements
