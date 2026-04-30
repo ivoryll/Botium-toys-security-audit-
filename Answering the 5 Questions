@@ -1,0 +1,12 @@
+When you get to those questions, they usually test:
+
+Why is the audit important?
+→ Prevent breaches, ensure compliance, protect business
+Biggest risks?
+→ Data exposure, lack of monitoring, weak controls
+Controls effectiveness?
+→ Mostly weak or missing
+Compliance gaps?
+→ GDPR + PCI DSS failures
+What should be fixed first?
+→ Access control + encryption + monitoring
